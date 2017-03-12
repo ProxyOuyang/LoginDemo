@@ -11,7 +11,9 @@
 
 #define TAG_USERNAME_TEXTVIEW 1000
 #define TAG_PASSWORD_TEXTVIEW 1001
-#define RESUTL NO
+
+// set YES,you can login; set NO, you can not login
+#define RESUTL YES
 #define DEFAULT_CORNERRADIUS 5
 
 @interface OYLoginViewController ()
